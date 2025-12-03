@@ -12,7 +12,7 @@
 - Inicializa el arreglo de procesos.
 ---
 ## **`int paginas_libres_ram()`**
-**Qué hace:*
+**Qué hace:**
 - Recorre la tabla de RAM contando cuántos frames tienen `pid = -1`.
 **Retorna:**  
 Número de páginas libres en RAM.
