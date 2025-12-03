@@ -77,3 +77,5 @@ Simular que un proceso termina y su memoria se libera.
 Implementar la política de reemplazo FIFO cuando ocurre un page fault.
 
 ---
+
+[video[(https://youtu.be/l7dUF3s0xVI)
